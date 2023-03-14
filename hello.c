@@ -2,5 +2,5 @@
 int main()
 {
     print("hellow world");
-    return0;
+    return 0;
 }
